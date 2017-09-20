@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 3508915353
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: share.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: capsule.unity3d
+      Dependencies:
+        Dependency_0: share.unity3d
+    Info_2:
+      Name: cube.unity3d
+      Dependencies:
+        Dependency_0: share.unity3d
