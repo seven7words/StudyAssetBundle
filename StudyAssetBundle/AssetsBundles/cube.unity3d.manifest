@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3346113225
+CRC: 443546149
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3323f58a59607dcbd10df65b966a1261
+    Hash: 9dfd3225e273f859f05ee2f3cdc95e89
   TypeTreeHash:
     serializedVersion: 2
-    Hash: c30bef3c952cd58e329fb4ea2abf1d75
+    Hash: 0615fdd8182050e228ba12bfa176028d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -26,4 +26,4 @@ ClassTypes:
 Assets:
 - Assets/Prefabs/Cube.prefab
 Dependencies:
-- /Users/sevenqizai/Desktop/StudyAssetBundle/StudyAssetBundle/AssetsBundles/share.unity3d
+- C:/Users/woopqww111/Documents/StudyAssetBundle/StudyAssetBundle/AssetsBundles/share.unity3d

@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio for Mac
+# Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyAssetBundle", "StudyAssetBundle.csproj", "{33575AC2-4729-56F1-A9F3-CB1E6715CF88}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyAssetBundle.Editor", "StudyAssetBundle.Editor.csproj", "{E3389901-6230-C11A-056D-EC8BCCCC5306}"
